@@ -1,0 +1,4 @@
+# Python dependencies for the Flask web application
+# This file lists all the packages needed to run the app
+
+Flask==2.3.3
