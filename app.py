@@ -6,6 +6,7 @@ This is a minimal web app that demonstrates local deployment concepts.
 
 # Import the Flask class from the flask module
 from flask import Flask
+# checking and testing//*****
 
 # Create an instance of the Flask class
 # __name__ is a special Python variable that represents the current module
